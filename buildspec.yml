@@ -17,6 +17,4 @@ phases:
 
 artifacts:
   files:
-    - appspec.yml
-    - target/Audit-Authentication-0.0.1.jar
-    - scripts/*
+    - target/Audit-Authentication-0.0.1-SNAPSHOT.jar
