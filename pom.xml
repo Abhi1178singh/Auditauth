@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.cognizant</groupId>
 	<artifactId>Audit-Authentication</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Audit-Authentication</name>
 	<description>Authentication Module for Audit Management</description>
